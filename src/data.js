@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Luis is passionate about writing code and solving clients’ problems through the development of creative and innovative software. He has tremendous potential that is not being fulfilled in his current position. Dean is vocal about his software ideas, but respects his superiors and enthusiastically tackles every assignment as he is directed. He is friendly, easy to get along with, and respected by his co-workers.",
+    image: "https://media-exp1.licdn.com/dms/image/C4D03AQG1Ww_Q46f3Bg/profile-displayphoto-shrink_800_800/0/1612791743839?e=1649894400&v=beta&t=hzqQTcYgr1qWvoFBi5OtAWV5-Vimgm6y_Iqd8aEw-pA",
+    name: "Damion Thomas",
+    company: "One Digital",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Luis is dedicated to providing quality work. He checks and rechecks his software before turning it in for presentation to the client. He strives to make his programs as user friendly as possible understanding that not everyone is an expert programmer.",
+    image: "https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-9/83156049_3411469495591786_1149951075160162304_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=dF0AU-CBuWkAX-_pvD3&_nc_ht=scontent-atl3-1.xx&oh=00_AT9jNEs_o-TNNd_p3hUOtIGc-Dezj4CR2Iv5mnRN7kqdkQ&oe=622CA542",
+    name: "Lisset Soto",
+    company: "Coding Temple",
   },
 ];
 
