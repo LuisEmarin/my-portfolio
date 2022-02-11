@@ -36,7 +36,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Luis is passionate about writing code and solving clients’ problems through the development of creative and innovative software. He has tremendous potential that is not being fulfilled in his current position. Dean is vocal about his software ideas, but respects his superiors and enthusiastically tackles every assignment as he is directed. He is friendly, easy to get along with, and respected by his co-workers.",
+      "Luis is passionate about writing code and solving clients' problems through the development of creative and innovative software. He has tremendous potential that is yet to be fulfilled. Luis is vocal about his software ideas, but respects his superiors and enthusiastically tackles every assignment as he is directed. He is friendly, easy to get along with, and respected by his co-workers.",
     image: "https://media-exp1.licdn.com/dms/image/C4D03AQG1Ww_Q46f3Bg/profile-displayphoto-shrink_800_800/0/1612791743839?e=1649894400&v=beta&t=hzqQTcYgr1qWvoFBi5OtAWV5-Vimgm6y_Iqd8aEw-pA",
     name: "Damion Thomas",
     company: "One Digital",
