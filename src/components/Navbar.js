@@ -21,6 +21,9 @@ export default function Navbar() {
                     <a href="#testimonials" className="mr-5 hover:text-white">
                         Testimonials
                     </a>
+                    <a href="/resume.pdf" className="mr-5 hover:text-white">
+                        Resume
+                    </a>
                 </nav>
                 <a
                     href="#contact"
