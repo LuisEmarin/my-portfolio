@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Spotify API and HTML/CSS",
     description:
       "Using a Spotify API I conconcted 'wall' of movie posters that you can click on, and will play a snippet of the music used in the movie.",
-    image: "./project-1.gif",
+    image: "./movie-poster.png",
     link: "https://eloquent-villani-72b992.netlify.app/",
   },
   {

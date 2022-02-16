@@ -1,3 +1,4 @@
+import { IdentificationIcon } from "@heroicons/react/solid";
 import React from "react";
 
 export default function About() {
@@ -36,8 +37,11 @@ export default function About() {
                     />
                 </div>
             </div>
-            <div>
-                About Me
+            <div className='conatainer px-5 py-10 mx-auto text-center lg:px-40'>
+                <IdentificationIcon  className='mx-auto inline block w-10 mb-4'/>
+                <h1 className='sm:text-4xl text-3xl font-medium title-font mb-4 text-white'>
+                        About Me
+                </h1>
             </div>
         </section>
     )
