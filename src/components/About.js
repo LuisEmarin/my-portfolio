@@ -36,6 +36,9 @@ export default function About() {
                     />
                 </div>
             </div>
+            <div>
+                About Me
+            </div>
         </section>
     )
 }

@@ -44,7 +44,6 @@ export default function Contact() {
                                 ADDRESS
                             </h2>
                             <p className="mt-1">
-                                
                                 Atlanta, Georgia 30305
                             </p>
                         </div>
@@ -54,6 +53,12 @@ export default function Contact() {
                             </h2>
                             <a className="text-indigo-400 leading-relaxed">
                                 luis.e.marin@outlook.com
+                            </a>
+                            <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+                                LinkedIn
+                            </h2>
+                            <a className="text-indigo-400 leading-relaxed" href="https://www.linkedin.com/in/marin-luis/">
+                                www.linkedin.com/in/marin-luis
                             </a>
                             <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                                 PHONE
