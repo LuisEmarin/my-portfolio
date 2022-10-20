@@ -35,7 +35,7 @@ export default function Contact() {
                         frameBorder={0}
                         marginHeight={0}
                         marginWidth={0}
-                        style={{filter:'opacity(0.7)'}}
+                        style={{filter:'opacity(0.9)'}}
                         src="https://www.google.com/maps/embed/v1/place?q=Atlanta,ga&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
                     <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
