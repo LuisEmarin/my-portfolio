@@ -7,7 +7,7 @@ export default function Testimonials() {
     return (
         <section id="testimonials">
             <div className="container px-5 py-10 mx-auto text-center">
-                <UserIcon className="w-10 inline block mb-4"/>
+                <UserIcon className="w-10  block mb-4"/>
                 <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
                     Testimonials
                 </h1>
@@ -19,7 +19,7 @@ export default function Testimonials() {
                                 <p className="leading-relaxed mb-6">{testimonial.quote}</p>
                                 <div className="inline-flex items-center">
                                     <img
-                                        alt="testimonial"
+                                        alt="image"
                                         src={testimonial.image}
                                         className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                                     />

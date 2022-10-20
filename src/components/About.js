@@ -42,7 +42,7 @@ export default function About() {
                 <h1 className='sm:text-4xl text-3xl font-medium title-font mb-4 text-white'>
                         About Me
                 </h1>
-                <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-start ">
+                <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-start border-r-2 border-b-2">
                     <img 
                     width={250} height={100}
                     alt="portrait"
